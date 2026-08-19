@@ -1,4 +1,4 @@
-import {
+zimport {
 	type NavBarConfig,
 	type NavBarLink,
 	type NavBarSearchConfig,

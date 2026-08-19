@@ -47,24 +47,6 @@ export const booknavConfig: BooknavGroup[] = [
 				desc: "最权威的 Web 技术文档",
 				weight: 9,
 			},
-			{
-				title: "Astro",
-				url: "https://astro.build",
-				desc: "内容驱动型网站的 Web 框架",
-				weight: 8,
-			},
-			{
-				title: "Svelte",
-				url: "https://svelte.dev",
-				desc: "把组件编译成高效原生 JS 的框架",
-				weight: 7,
-			},
-			{
-				title: "Tailwind CSS",
-				url: "https://tailwindcss.com",
-				desc: "一个功能强大且灵活的 CSS 框架",
-				weight: 6,
-			},
 		],
 	},
 	{
@@ -128,28 +110,6 @@ export const booknavConfig: BooknavGroup[] = [
 				url: "https://carbon.now.sh",
 				desc: "把代码片段生成漂亮的图片",
 				weight: 8,
-			},
-		],
-	},
-	{
-		id: "resources",
-		name: "资源",
-		icon: "material-symbols:auto-stories-outline-rounded",
-		desc: "文档、教程与阅读",
-		weight: 70,
-		items: [
-			{
-				title: "Firefly Docs",
-				url: "https://docs-firefly.cuteleaf.cn",
-				desc: "Firefly 主题模板文档",
-				icon: "https://docs-firefly.cuteleaf.cn/logo.png",
-				weight: 10,
-			},
-			{
-				title: "夏夜流萤",
-				url: "https://blog.cuteleaf.cn",
-				desc: "飞萤之火自无梦的长夜亮起",
-				weight: 9,
 			},
 		],
 	},

@@ -43,7 +43,7 @@ export const displaySettingsConfig: DisplaySettingsConfig =
 		wallpaperModeSwitchable: true,
 
 		// 水波纹动画开关
-		wavesSwitchable: true,
+		wavesSwitchable: false,
 
 		// 渐变过渡效果开关
 		gradientSwitchable: true,
@@ -65,5 +65,5 @@ export const displaySettingsConfig: DisplaySettingsConfig =
 		// ── 特效 (Effects) ────────────────────────────────────
 
 		// 樱花特效开关
-		sakuraSwitchable: true,
+		sakuraSwitchable: false,
 	});

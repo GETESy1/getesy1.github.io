@@ -1,29 +1,32 @@
-# 关于我 / About Me
+# 关于我
+欢迎来到我的网站，这个网站主要以一些我本人写的教程为主。我想帮助更多对这方面感兴趣的人。
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+网名:GETESy<font size=1>这个网名是我当时想在B站做视频时想到的当时我的视频主要以游戏和电脑病毒为主所以就有了这个名字</font>
 
-## 🛠️ 关于本站
+生日:02-11
+## 爱好
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+我平时喜欢打osu!和CS，当然其他的单机游戏也喜欢玩。欢迎来加我的osu!和Steam。
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+喜欢vocaloid，没有最喜欢的歌姬，主要用Synthesizer V和OpenUtau翻调，也算个ボカロP了吧
 
+平时喜欢听**サカナクション**,**万能青年旅店**的歌。
+## 未来
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+- [ ] Pro级别的调音技术
+    
+- [ ] 多发点教程
+    
+-  [x] b站1000粉
+    
+- [ ] b站2000粉
+    
+- [x] osu! 2000pp
+    
+- [ ] osu! 3000pp
+    
+- [ ] 考业余无线电证(A类)
+    
+- [x] 网站活过~~10~~ 8年   
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
-
----
-
-*感谢你的来访！希望在这里能找到对你有用的内容！*
-
+现在做网站的都不容易，相互留个友链支持一下，当然赞助一下也行
